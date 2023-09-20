@@ -1,3 +1,3 @@
 # 2180607359
-
-### as a vocabulary learner, i want to create flashcards with vocabulary and definitions so I can review and improve my vocabulary ###
+# App Vocabulary Flashcard LDD #
+### 1. As a learner, I want to create flashcards with definitions and examples so I can review and improve my vocabulary ###
