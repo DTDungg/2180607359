@@ -1,3 +1,11 @@
 # 2180607359
 # App Vocabulary Flashcard LDD #
-### 1. As a learner, I want to create flashcards with definitions and examples so I can review and improve my vocabulary ###
+
+| **Title:**|Create Flashcard |
+| :----- | :---------- |
+| **Value Statment:**  | As a learner, want to create flashcards with definitions and examples ,so I can review and improve my vocabulary |
+|**Acceptance Criteria:**|          | 
+|**Definition of Done:**|          |
+|**Owner:**| Dung  |
+|**Intergration:**| 2 weeks|
+|**Estimate:**| 2 Points|
