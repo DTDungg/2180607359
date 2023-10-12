@@ -24,6 +24,8 @@
 | Iteration             | Unsheduled                                           |
 | Estimate              | 5 Points                                             |
 
+<img src = "https://github.com/DTDungg/2180607359/blob/2180608276/2180608276.png" alt = "2180608276" />
+
 # 2180608877
 
 Name Application: Vocabulary Flash Card LDD
@@ -36,5 +38,8 @@ Name Application: Vocabulary Flash Card LDD
 | Owner                | Responsible person: Linh Dang                                                                                                 |
 | Iteration            | Iteration: Sprint 2 weeks                                                                                                     |
 | Estimate             | Estimate: 5 point                                                                                                              |
+
+
+
 
 
