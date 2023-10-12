@@ -11,3 +11,5 @@
 | Iteration            | Iteration: Sprint 1 weeks                                                                                                                                                                                                 |
 | Estimate             | Estimate: 4 point                                                                                                                                                                                                         |
 |                      |
+
+![UI_Test_Vocabulary](2180608877.png)
