@@ -13,6 +13,7 @@
 |**Estimate:**| 2 Points|
 
 ![add new card interface](https://github.com/DTDungg/2180607359/blob/main/2180607359.png)
+![test case add](https://github.com/DTDungg/2180607359/blob/main/Test_case_2180607359.png)
 
 # 2180608276
 | Title:                | Learner classify Vocabularies Into Categories And Types      |
